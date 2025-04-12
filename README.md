@@ -79,7 +79,7 @@ Epoch 10/10: accuracy=0.47 → val_accuracy=0.83
 
 This matrix illustrates how well each letter was recognized. Most confusion occurs with visually similar signs.
 
-![Confusion Matrix](images/Screenshot_2025-04-12_092324.png)
+![Confusion Matrix] images/Screenshot_2025-04-12_092324.png
 
 | Metric      | Value |
 |-------------|-------|

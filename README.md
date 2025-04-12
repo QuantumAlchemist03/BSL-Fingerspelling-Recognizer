@@ -111,7 +111,7 @@ Then visit: `http://localhost:5000`
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/BSL-Fingerspelling-Recognizer.git
+git clone https://github.com/QuantumAlchemist03/BSL-Fingerspelling-Recognizer.git
 cd BSL-Fingerspelling-Recognizer
 pip install -r requirements.txt
 python app.py

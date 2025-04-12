@@ -59,7 +59,7 @@ The model uses **MobileNetV2** as the feature extractor, fine-tuned for BSL clas
 
 ## 📈 Training & Evaluation
 
-The model was trained for **10 epochs** with early stopping. Below is a summary of training progress:
+The model was trained for **10 epochs** with early stopping. Below is a summary of the training progress:
 
 ```plaintext
 Epoch 1/10: accuracy=0.02 → val_accuracy=0.08

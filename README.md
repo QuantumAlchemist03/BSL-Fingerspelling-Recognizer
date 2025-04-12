@@ -53,7 +53,7 @@ The model uses **MobileNetV2** as the feature extractor, fine-tuned for BSL clas
 **Model size**: ~9.25 MB
 
 ### 📷 Model Summary Screenshot  
-![Model Summary](images/Screenshot_2025-04-12_092230.png)
+![Model Summary](images/model_summary.png)
 
 ---
 
@@ -71,7 +71,7 @@ Epoch 10/10: accuracy=0.47 → val_accuracy=0.83
 ### ✅ Final Validation Accuracy: **83.4%**
 
 ### 📷 Training Logs Screenshot  
-![Training Logs](images/Screenshot_2025-04-12_092256.png)
+![Training Logs](images/training_logs.png)
 
 ---
 
@@ -79,7 +79,7 @@ Epoch 10/10: accuracy=0.47 → val_accuracy=0.83
 
 This matrix illustrates how well each letter was recognized. Most confusion occurs with visually similar signs.
 
-![Confusion Matrix] images/Screenshot_2025-04-12_092324.png
+![Confusion Matrix](images/confusion_matrix.png)
 
 | Metric      | Value |
 |-------------|-------|

@@ -143,6 +143,5 @@ Feel free to fork this repo, submit PRs, or open issues for feature suggestions 
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License.
+© 2025 Alif Sathar. All rights reserved.
+Unauthorized use or distribution is strictly prohibited.

@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/QuantumAlchemist03/BSL-Fingerspelling-Recognizer.git
+	fetch = +refs/*:refs/*
+	mirror = true
